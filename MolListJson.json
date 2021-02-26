@@ -1,4 +1,12 @@
 {
-    "dae1fkb_cartoon":"url",
-    "dae1fkb_cartoon_ligand":"url"
+    "MolList":[
+        {
+            "Name":"name1",
+            "Url":"https://sample-img.lb-product.com/wp-content/themes/hitchcock/images/100KB.png"
+        },
+        {
+            "Name":"name2",
+            "Url":"https://sample-img.lb-product.com/wp-content/themes/hitchcock/images/10MB.png"
+        }
+    ]
 }
