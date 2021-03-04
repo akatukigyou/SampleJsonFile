@@ -27,10 +27,6 @@
         {
             "Name":"1xl2_surface",
             "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1xl2_surface.dae"
-        },
-        {
-            "Name":"1xl2_surface_ligand",
-            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1xl2_surface_ligand.dae"
         }
     ]
 }
