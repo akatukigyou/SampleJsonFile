@@ -1,12 +1,12 @@
 {
     "MolList":[
         {
-            "Name":"name1",
-            "Url":"https://sample-img.lb-product.com/wp-content/themes/hitchcock/images/100KB.png"
+            "Name":"1fkb_cartoon",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1fkb_cartoon.dae"
         },
         {
-            "Name":"name2",
-            "Url":"https://sample-img.lb-product.com/wp-content/themes/hitchcock/images/10MB.png"
+            "Name":"1fkb_cartoon_ligand",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1fkb_cartoon_ligand.dae"
         }
     ]
 }
