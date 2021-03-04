@@ -7,6 +7,46 @@
         {
             "Name":"1fkb_cartoon_ligand",
             "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1fkb_cartoon_ligand.dae"
+        },
+        {
+            "Name":"1fkb_surface",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1fkb_surface.dae"
+        }
+        {
+            "Name":"1fkb_surface_ligand",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1fkb_surface_ligand.dae"
+        },
+        {
+            "Name":"1xl2_cartoon",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1xl2_cartoon.dae"
+        },
+        {
+            "Name":"1xl2_cartoon_ligand",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1xl2_cartoon_ligand.dae"
+        },
+        {
+            "Name":"1xl2_surface",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1xl2_surface.dae"
+        },
+        {
+            "Name":"1xl2_surface_ligand",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/1xl2_surface_ligand.dae"
+        },
+        {
+            "Name":"5ggr_cartoon",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/5ggr_cartoon.dae"
+        },
+        {
+            "Name":"5ggr_cartoon_ligand",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/5ggr_cartoon_ligand.dae"
+        },
+        {
+            "Name":"5ggr_surface",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/5ggr_surface.dae"
+        },
+        {
+            "Name":"5ggr_surface_ligand",
+            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/5ggr_surface_ligand.dae"
         }
     ]
 }
