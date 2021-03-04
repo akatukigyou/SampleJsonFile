@@ -39,10 +39,6 @@
         {
             "Name":"5ggr_cartoon_ligand",
             "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/5ggr_cartoon_ligand.dae"
-        },
-        {
-            "Name":"5ggr_surface",
-            "Url":"https://raw.githubusercontent.com/HnakadouriN/SampleJsonFile/master/ColladaFile/5ggr_surface.dae"
         }
     ]
 }
